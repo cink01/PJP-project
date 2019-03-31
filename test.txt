@@ -1,0 +1,8 @@
+
+project neco
+if tady and tam 
+then
+neco:=5
+exit
+
+;komentar;
